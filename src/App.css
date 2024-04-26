@@ -51,7 +51,7 @@ header {
 
 .hero-running-text {
   white-space: nowrap;
-  animation: moveLeft 40s linear infinite;
+  animation: moveLeft 80s linear infinite;
   position: absolute;
   bottom: 100px;
   font-size: 150px;
@@ -59,7 +59,7 @@ header {
   white-space: nowrap;
   color: #ffffff;
   font-weight: 500;
-  -webkit-animation: moveLeft 40s linear infinite;
+  -webkit-animation: moveLeft 80s linear infinite;
 }
 
 
