@@ -5,7 +5,7 @@ const Hero = () => {
     <div className='hero'>
       <img src={heroImg} className='hero-img' alt='' />
       <div className='hero-running-text'>
-        - Under Development - Under Development - Under Development -  Under Development - Under Development - Under Development -
+        - Under Development - Under Development - Under Development -  Under Development - Under Development - Under Development - Under Development - Under Development - 
       </div>
     </div>
   );
